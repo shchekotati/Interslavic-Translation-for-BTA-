@@ -1,0 +1,189 @@
+dimension.overworld.name=Врхны свєт
+dimension.nether.name=Незер
+dimension.paradise.name=Аезер
+
+season.overworld.spring.name=Весна
+season.overworld.summer.name=Лєто
+season.overworld.fall.name=Јесењ
+season.overworld.winter.name=Зима
+season.overworld.hell.name=Пекло
+season.overworld.winter.endless.name=Вєчна зима
+season.paradise.gold.name=Злато
+season.paradise.silver.name=Срєбро
+season.null.name=Немаје сезонов
+
+weather.overworld.clear.name=Јасно
+weather.overworld.clear.hell.name=Јасно
+weather.overworld.clear.woods.name=Јасно
+weather.overworld.rain.name=Дожд
+weather.overworld.snow.name=Снєг
+weather.overworld.winter.snow.name=Снєг
+weather.overworld.storm.name=Бурја
+weather.overworld.fog.name=Мгла
+weather.overworld.rain.blood.name=Крвавы дожд
+
+gamemode.survival.name=Прєжитје
+gamemode.creative.name=Творчество
+gamemode.hardcore.name=Пекло
+gamemode.adventure.name=Пригода
+gamemode.spectator.name=Позиранје
+
+worldType.overworld.extended.name=Увеличены
+worldType.overworld.extended.desc=Стандардны тип свєта дља \nBTA, вкључајучи в себе велике \nбиомы и высокы свєт.
+worldType.overworld.default.name=Стандардны
+worldType.overworld.default.desc=Вече ваниљны опыт.
+worldType.nether.default.name=Стандардны
+worldType.paradise.default.name=Стандардны
+worldType.flat.name=Плоскы
+worldType.flat.desc=Безконечне просторы плоској \nтравы.
+worldType.overworld.floating.name=Парече островы
+worldType.overworld.floating.desc=Множство безмєрно высокых паречых \nостровов дља изслєдованја.
+worldType.overworld.amplified.name=РАЗШИРЈЕНЫ
+worldType.overworld.amplified.desc=Подобны с типом "Стандардны", але \nдопушчаје крајевиду генеровати се \nдо 256 блоков в высоту.
+worldType.overworld.retro.name=Ретро
+worldType.overworld.retro.desc=Максимално приближено генерованје \nк Minecraft Alpha 1.1.2_01.
+worldType.overworld.islands.name=Островы
+worldType.overworld.islands.desc=Повышаје высоту уравња морја, \nже обрачаје свєт в групу \nостровов, окруженых океанами.
+worldType.overworld.winter.name=Вєчна зима
+worldType.overworld.winter.desc=Подобны с типом "Стандардны", але снєг \nне прєставаје падати.
+worldType.overworld.hell.name=Подземны свєт
+worldType.overworld.hell.desc=Тој свєт је погынул јешче давно. \nПопробуј прєжити.
+worldType.overworld.woods.name=Лєсы
+worldType.overworld.woods.desc=Безконечне лєсы дља \nизслєдованја.
+worldType.overworld.paradise.name=Рајскы сад
+worldType.overworld.paradise.desc=Вєчны дењ и безконечна весна.
+worldType.empty.name=Пусты
+worldType.empty.desc=Ничего, кромє јединового \nблока недоброго камња.
+worldType.debug.name=Дебугованје
+worldType.debug.desc=Генерује кажду кондицију каждого \nблока в игрє. (дља тестов)
+worldType.overworld.inland.name=Без океанов
+worldType.overworld.inland.desc=Подобны с типом "Увеличены", \nале без океанов.
+worldType.overworld.classic.name=Classic
+worldType.overworld.classic.desc=Подобно генерованје свєта с Minecraft \nClassic, але безконечна.
+worldType.overworld.indev.name=Indev
+worldType.overworld.indev.desc=Подобно генерованје свєта с\nIndev, але безконечна.
+worldType.overworld.skyblock.name=Skyblock
+worldType.overworld.skyblock.desc=Тежко прєжитје на малом\nостровку в небу.
+
+connect.connecting=Сједињенје к серверу...
+connect.authorizing=Вход...
+connect.failed=Хыба сједињенја с сервером
+
+disconnect.genericReason=%s
+disconnect.disconnected=Одкључены од сервера
+disconnect.lost=Сједињенје је утрачено
+disconnect.kicked=Јеси был изгнаны с сервера
+disconnect.timeout=Час подкљученја је изтєкло
+disconnect.closed=Замкнуто
+disconnect.loginFailed=Хыба входа
+disconnect.loginFailedInfo=Хыба входа: %s
+disconnect.quitting=Изход
+disconnect.endOfStream=Конец стрима
+disconnect.overflow=Буфер је прєполњены
+connect.failed=Не удало се подкључити се
+
+damagetype.combat=Удар
+damagetype.projectile=Орудованје
+damagetype.blast=Избух
+damagetype.fall=Упад
+damagetype.fire=Огоњ
+
+bed.occupied=Лежичше је зајето
+bed.noSleep=Спати можно толико ночеју або при бурјах
+bed.setSpawn=Пункт возродженја је бул установјены
+bed.notValid=Лежичше је було изгубјено або замкнуто
+bed.noAllowSleeping=Сон је одкључены.
+
+progress.tip=Рада: %s
+
+sign.image.none=Ничего
+sign.image.arrow_right=Стрєлка вправо
+sign.image.arrow_left=Стрєлка влєво
+sign.image.arrow_down=Стрєлка на дол
+sign.image.arrow_up=Стрєлка вврх
+sign.image.caution=Чуванје
+sign.image.mobs=Мобы
+sign.image.trees=Дрєва
+sign.image.chest=Скриња
+sign.image.pickaxe=Копалка
+sign.image.wolf=Волк
+sign.image.sword=Меч
+sign.image.hoe=Мотыка
+sign.image.axe=Сєкыра
+sign.image.shovel=Лопата
+sign.image.bowl=Миска
+sign.image.tnt=TNT
+sign.image.mob_farm=Ферма мобов
+sign.image.mine=Шахта
+sign.image.redstone=Редстоун
+sign.image.farm=Ферма
+sign.image.barricade=Барикады
+sign.image.question_mark=Пыталны знак
+sign.image.face_smile=Усмєхајуче се лице
+sign.image.face_sad=Безрадостно лице
+sign.image.face_crying=Плачуче лице
+sign.image.face_gasp=Удивјено лице
+sign.image.face_thinking=Мыслече лице
+sign.image.face_confused=Замотано лице
+sign.image.big_sign=Велика вывєска
+sign.image.mob_zombie=Зомби
+sign.image.mob_skeleton=Скелет
+sign.image.mob_creeper=Крипер
+sign.image.one_player=Једин играч
+sign.image.two_players=Два играча
+sign.image.three_players=Три играча
+sign.image.cross=Криж
+sign.image.craft=Творјенје
+sign.image.afk=AFK
+sign.image.brb=Скоро врачу се
+
+record.13=13
+record.cat=Cat
+record.blocks=Blocks
+record.chirp=Chirp
+record.far=Far
+record.mall=Mall
+record.mellohi=Mellohi
+record.stal=Stal
+record.strad=Strad
+record.ward=Ward
+record.wait=Wait
+record.dog=Dog
+
+flag.full=У вас прємного много хоругв на мапє
+flag.overwrite=Неможно прєзаписати сучи шаблон
+flag.copied=Шаблон хоругвы је скопированы
+
+wand.wrongmode=Дља примєњенја потрєбно быти в режиму творчества!
+
+save.data.missing.data=Дане свєта сут утратили се!
+
+unit.day=Дењ
+
+direction.up=Врх
+direction.down=Дол
+direction.north=Сєвер
+direction.south=Југ
+direction.west=Запад
+direction.east=Возход
+direction.none=Одсутствује
+
+side.top=Врх
+side.bottom=Дол
+side.north=Сєвер
+side.south=Југ
+side.west=Запад
+side.east=Возход
+side.none=Одсутствује
+
+container.activator.name=Активатор
+container.chest.name=Скриња
+container.dispenser.name=Изкыдатник
+container.flag.name=Хоругва
+container.furnace.name=Печ
+container.furnace_blast.name=Плавиљња
+container.trommel.name=Просєјаватељ
+container.minecart.name=Вагонетка
+container.crafting.name=Створјенје
+container.inventory.name=Орудованје
+container.result.name=Резултат

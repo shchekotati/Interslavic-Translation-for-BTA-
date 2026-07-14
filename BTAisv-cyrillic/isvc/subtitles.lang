@@ -1,0 +1,85 @@
+subtitles.mob.sheep=Овца блејаје
+subtitles.mob.chicken=Кура квокаје
+subtitles.mob.chicken.hurt=Кура је поранила се
+subtitles.mob.chicken.plop=Кура сноси јајце
+subtitles.mob.pig=Свиња грохтаје
+subtitles.mob.pig.death=Свиња погынаје
+subtitles.mob.wolf.howl=Волк выје
+subtitles.mob.wolf.panting=Волк дыхти
+subtitles.mob.wolf.hurt=Волк је поранил се
+subtitles.mob.wolf.bark=Волк лаје
+subtitles.mob.wolf.growl=Волк буче
+subtitles.mob.wolf.death=Волк погынаје
+subtitles.mob.wolf.whine=Волк цвили
+subtitles.mob.wolf.shake=Волк одпраши се
+subtitles.mob.cow.hurt=Крава је поранила се
+subtitles.mob.cow=Крава мучаје
+subtitles.mob.zombie=Зомби рычит
+subtitles.mob.zombie.hurt=Зомби реве
+subtitles.mob.zombie.death=Зомби погынаје
+subtitles.mob.zombiepig.zpighurt=Свинозомби је поранил се
+subtitles.mob.zombiepig.zpig=Свинозомби реве
+subtitles.mob.zombiepig.zpigdeath=Свинозомби погынаје
+subtitles.mob.zombiepig.zpigangry=Свинозомби гнєваје се
+subtitles.mob.skeleton=Скелет стукаје костами
+subtitles.mob.skeleton.death=Скелет погынаје
+subtitles.mob.skeleton.hurt=Скелет је поранил се
+subtitles.mob.ghast.fireball=Огњена куља гаста
+subtitles.mob.ghast.moan=Гаст плаче
+subtitles.mob.ghast.death=Гаст погынаје
+subtitles.mob.ghast.scream=Крик гаста
+subtitles.mob.ghast.affectionate_scream=Чутны крик гаста
+subtitles.mob.creeper=Крипер скврчи
+subtitles.mob.creeper.death=Крипер погынаје
+subtitles.mob.spider.death=Павук погынаје
+subtitles.mob.spider=Павук скврчи
+subtitles.mob.ghast.charge=Гаст изстрєли
+subtitles.mob.slime.attack=Слимак атакује
+subtitles.mob.slime=Слимак
+
+subtitles.fall.small=Малы упад
+subtitles.damage.fall.big=Великы упад
+
+subtitles.liquid.water=Вода тече
+subtitles.liquid.lava.pop=Клокот лавы
+subtitles.liquid.lava=Клокот лавы
+subtitles.liquid.splash=Брызганје воды
+
+subtitles.portal.portal=Завытје портала
+subtitles.portal.trigger=Вход в портал
+subtitles.portal.travel=Изход из портала
+
+subtitles.random.fizz=Скврчанје
+subtitles.random.drr=Прониканје стрєлоју
+subtitles.random.fuse=Фитиљ TNT је запалил се
+subtitles.random.pop=Подбрадок прєдмета
+subtitles.random.glass=Стекло
+subtitles.random.door_open=Двери отворили се
+subtitles.random.door_close=Двери замкнули се
+subtitles.random.explode=Избух
+subtitles.random.bow=Изстрєл
+subtitles.random.hurt=Порањенје
+subtitles.random.splash=Брызганје
+subtitles.random.breath=Дыханје
+subtitles.random.bite=Играч једаје
+subtitles.random.equip=Броња је нанизана
+
+subtitles.note.snare=Малы барабан
+subtitles.note.harp=Харфа
+subtitles.note.bass=Бас
+subtitles.note.bd=Великы барабан
+subtitles.note.pling=Електроклавир
+subtitles.note.hat=Талиркы
+subtitles.note.bassattack=Струна
+
+subtitles.ambient.weather.thunder=Блєскавица
+subtitles.ambient.cave=Звукы јам
+subtitles.ambient.weather.rain=Дожд
+
+subtitles.tile.piston.out=Поршењ је вкључены
+subtitles.tile.piston.in=Поршењ је изкључены
+
+subtitles.hurt.flesh=Бољ плоти
+
+subtitles.fire.ignite=Огоњ је зажегл се
+subtitles.fire.fire=Огоњ разгарјаје се
