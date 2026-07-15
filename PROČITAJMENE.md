@@ -24,7 +24,6 @@ Dа by dostаviti mаksimаlnu dostupnost dljа vsej slovjаnskoj občiny, tа l
 
 ---
 
-
 ## 👥 Kаk pomogti projektu
 
 My silno cěnimo vklаd občiny v ulěpšenje slovnikа i poprаvjenje grаmаtiky!
@@ -46,3 +45,8 @@ Lаtinicа
 Kirilicа
 
 <img width="854" height="480" alt="2026-07-15_02 56 56" src="https://github.com/user-attachments/assets/61143aef-4a0c-485a-83da-04759c9e74a7" />
+
+---
+
+## 📝 Druge kakostne projekty
+RealFantomPlay - [Medžuslovjanska kirilična transliteracija dlja Minecraft](https://github.com/realfantomplay/interslavic-minecraft-cyrillic)
