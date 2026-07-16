@@ -51,4 +51,4 @@ Kirilicа
 ## 📝 Druge kakostne projekty
 RealFantomPlay - [Medžuslovjanska kirilična transliteracija dlja Minecraft](https://github.com/realfantomplay/interslavic-minecraft-cyrillic)
 
-shchekotati, RealFantomPlayRealFantomPlay - [Medžuslovjansky prěvod dlja Minecraft Beta 1.7.3](https://github.com/shchekotati/Interslavic-Translation-For-Minecraft-Beta-1.7.3)
+shchekotati, RealFantomPlay - [Medžuslovjansky prěvod dlja Minecraft Beta 1.7.3](https://github.com/shchekotati/Interslavic-Translation-For-Minecraft-Beta-1.7.3)
