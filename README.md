@@ -1,4 +1,4 @@
-# 🌍 Interslavic Translation For BTA!
+# 🌍 Interslavic Translation for BTA!
 
 [🌐 English](README.md) | [🌐 Medžuslovjansky](PROČITAJMENE.md) | [🌐 Меджусловјанскы](ПРОЧИТАЈМЕНЕ.md)
 
