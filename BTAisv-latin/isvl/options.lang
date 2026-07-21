@@ -418,8 +418,8 @@ key.hudEditorExit=Izojdti iz redaktora HUD
 key.hudEditorReset=Prězapustiti HUD na prědustavjenje
 key.hudEditorNudgeUp=Izměstiti izbrany komponent vvrh
 key.hudEditorNudgeDown=Izměstiti izbrany komponent na dol
-key.hudEditorNudgeЛєво=Izměstiti izbrany komponent vlěvo
-key.hudEditorNudgeПраво=Izměstiti izbrany komponent vpravo
+key.hudEditorNudgeLeft=Izměstiti izbrany komponent vlěvo
+key.hudEditorNudgeRight=Izměstiti izbrany komponent vpravo
 key.hudEditorNudgeFast=Uskorjeno izměščenje izbranogo komponenta
 key.hudEditorOnboarding=Pokazati ekran obučenja s redaktorom HUD
 
